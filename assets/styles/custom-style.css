@@ -1,8 +1,16 @@
 /* background for home section */
 .home-background {
     background-image: url(../images/kananaskis15.jpg);
-    opacity: 0.80;
-    filter: alpha(opacity=80); /* For IE8 and earlier */
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.90;
+    filter: alpha(opacity=90); /* For IE8 and earlier */
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 /* main title formatting */
@@ -36,4 +44,8 @@
 /* top and bottom padding for footer */
 #footer {
     padding: 25px 0;
+    text-align: center;
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
 }
