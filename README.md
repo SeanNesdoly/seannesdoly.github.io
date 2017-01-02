@@ -1,1 +1,1 @@
-# mygithubpage
+# Sean Nesdoly's personal website.
