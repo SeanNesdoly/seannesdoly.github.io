@@ -1,5 +1,6 @@
-/* opacity for home wallpaper */
+/* background for home section */
 .home-background {
+    background-image: url(../images/kananaskis15.jpg);
     opacity: 0.80;
     filter: alpha(opacity=80); /* For IE8 and earlier */
 }
