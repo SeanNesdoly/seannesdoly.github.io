@@ -1,17 +1,15 @@
 /* background for home section */
 .background-image {
-    background-image: url(../images/kananaskis15.jpg);
-    background-attachment: fixed;
+    background: black url(../images/kananaskis15.jpg) bottom center no-repeat;
     height: 100%;
     width: 100%;
     position: absolute;
-    opacity: 0.75;
-    filter: alpha(opacity=75); /* For IE8 and earlier */
+    opacity: 0.99;
+    filter: alpha(opacity=99); /* For IE8 and earlier */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-repeat: no-repeat;
 }
 
 /* main title formatting */
