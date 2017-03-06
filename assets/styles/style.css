@@ -1,3 +1,8 @@
+/* set global font */
+body {
+    font-family: 'Ubuntu', serif!important;
+}
+
 /* background image for home section */
 .home {
     background: black url(../images/kananaskis15.jpg) bottom center no-repeat;
@@ -36,6 +41,11 @@
 /* link color */
 .home-links a {
     color: purple;
+}
+
+.intro {
+    padding-top: 25px;
+
 }
 
 /* positioning for footer */
