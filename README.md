@@ -1,1 +1,3 @@
-# Sean Nesdoly's personal website.
+# A personal website.
+
+slowly being developed..
