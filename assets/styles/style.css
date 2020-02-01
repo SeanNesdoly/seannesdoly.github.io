@@ -40,12 +40,11 @@ body {
 
 /* link color */
 .home-links a {
-    color: purple;
+    color: black;
 }
 
 .intro {
     padding-top: 25px;
-
 }
 
 /* positioning for footer */
